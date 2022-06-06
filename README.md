@@ -1,4 +1,4 @@
-# Hello, folks! HackTheBox Walkthroughs Links Below:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! HackTheBox Walkthroughs Links Below:
 -> <a href="https://app.hackthebox.com/">HackTheBox</a> Walkthroughs
 
 # HTB Starting Point Tier 0:
